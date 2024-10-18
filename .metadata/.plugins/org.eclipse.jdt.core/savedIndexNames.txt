@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+E:\GITTLWS\.metadata\.plugins\org.eclipse.jdt.core
+779194412.index
+1014417944.index
